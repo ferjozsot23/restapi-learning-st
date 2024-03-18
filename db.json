@@ -1,4 +1,4 @@
-{
+users = [
   {
     "id": 1,
     "username": "ferjozsot",
@@ -24,4 +24,4 @@
     "username": "robert_jones",
     "name": "Robert Jones"
   }
-}
+]
